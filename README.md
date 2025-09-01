@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bikram-bhandari" alt="bikram-bhandari" /></a> </p>
 
-- 🔭 I’m currently working on [Online-course-Registartion](https://github.com/Bikram-Bhandari/Online-course-registartion)
+- 🔭 I’m currently working on
 
 - 📄 My Resume [https://bikramb.com.np](https://bikramb.com.np)
 
