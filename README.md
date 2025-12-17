@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java and React**
 
-- 👯 I’m looking to collaborate on [Any contact](https://Bikramb.com.np)
+- 👯 I’m looking to collaborate on: [DM me](https://Bikramb.com.np)
 
 - 👨‍💻 All of my projects are available at [https://bikramb.com.np](https://bikramb.com.np)
 
