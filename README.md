@@ -15,8 +15,9 @@
 
 - 📫 How to reach me **bikrambhandari670@gmail.com**
 
-- 📄 Know about my experiences [https://bikramb.com.np/](https://bikramb.com.np/)
-
+- 📄 About Me [https://bikramb.com.np/](https://bikramb.com.np/)
+- 📄 Blog [https://bikramb.com.np/](https://aashikab.com.np/)
+  
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
