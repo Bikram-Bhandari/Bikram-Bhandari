@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React And Java**
 
-- 👯 I’m looking to collaborate on: [DM Me](https://bikramb.com.np/)
+- 👯 I’m looking to collaborate on: [DM Me](https://bikramb.com.np/contact.html)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bikram-Bhandari?tab=repositories](https://github.com/Bikram-Bhandari?tab=repositories)
 
