@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **React And Java**
 
-- 👯 I’m looking to collaborate on: [DM Me](https://bikramb.com.np/contact.html)
+- 👯 I’m looking to collaborate on: [DM Me](https://bikrambhandari.info.np/#contact)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Bikram-Bhandari?tab=repositories](https://github.com/Bikram-Bhandari?tab=repositories)
 
 - 📫 How to reach me **bikrambhandari670@gmail.com**
 
-- 👨‍💻 About Me [https://bikramb.com.np/](https://bikramb.com.np/)
+- 👨‍💻 About Me [https://bikramb.com.np/](https://bikrambhandari.info.np)
 
   
 ### Blogs posts
