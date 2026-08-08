@@ -40,9 +40,7 @@
 
 ## 📊 At a Glance
 
-<div align="center">
-## 📌 At a Glance
-
+<div align="left">
 - 💼 Role: Full Stack Web Developer
 - 🌍 Location: Nepal
 - 💻 Focus: Full Stack Web Development
