@@ -96,7 +96,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikram-bhandari&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,7 +106,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=bikram-bhandari&theme=tokyo-night"/>
 
 </p>
 
@@ -116,7 +116,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=bikram-bhandari&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </p>
 
