@@ -39,11 +39,11 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/bikram-bhandari">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.facebook.com/bikrambhandari01">
+<a href="https://www.facebook.com/BikramBhandari01">
 <img src="https://skillicons.dev/icons?i=facebook" />
 </a>
 
