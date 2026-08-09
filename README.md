@@ -67,15 +67,23 @@
 
 # 🚀 Featured Projects
 
-| Project | Description | Live |
-|----------|-------------|------|
-| 🌐 Portfolio Website | Personal Portfolio & Blog | ✅ |
-| 🏛️ Kedarsyu Municipality | Government Website | ✅ |
-| 🏨 Nepal Hotel & Restaurant | Hotel Management System | ✅ |
-| 📄 Bikram PDF | PDF Editing Tool | ✅ |
-| 🩸 Blood Bank System | Blood Donation Platform | ✅ |
-| 🌄 Nepal Tourism Hub | Tourism Website | ✅ |
-| 📚 BT Book Store | Online Book Store | ✅ |
+| 🚀 Project | 📝 Description | 🛠️ Tech Stack | 📌 Status |
+|------------|----------------|---------------|:---------:|
+| 🏛️ Kedarsyu Rural Municipality | Official Local Government Website | React • Node.js • MySQL | ✅ |
+| 🎓 Hamro-BIT | Complete Learning Management Platform for BIT Students | React • Node.js • MongoDB | 🚀 |
+| 🇳🇵 NepalSudhar | Public Issue Reporting & Community Improvement Platform | React • Express • MongoDB | 🚀 |
+| 💼 Aashikab Digital | Software & Digital Solutions Agency Website | React • Node.js | ✅ |
+| 🗳️ Lokesh Bhandari – Election Target | Election Campaign & Management Platform | React • Node.js | 🚀 |
+| 🩸 Blood Bank & Donor Management System | Blood Donation & Donor Management Platform | PHP • MySQL | ✅ |
+| 🛒 Tech Store Nepal | Enterprise E-commerce Platform | React • Node.js • MongoDB | 🚀 |
+| 📋 TRMS System | Training & Resource Management System | PHP • MySQL | ✅ |
+| 🌄 Nepal Tourism Hub | Tourism & Travel Information Platform | React • Vite | ✅ |
+| 🏨 Nepal Hotel Management System | Hotel Booking & Management System | React • Supabase | 🚀 |
+| 🏡 Hamro Kedarsyu | Community Information & Local Services Portal | React • Node.js | 🚀 |
+| 🛠️ Bikramb Tools | All-in-One Online PDF, Image & Utility Tools | React • Node.js | 🚀 |
+| 🌐 Portfolio Website | Personal Portfolio & Blogging Platform | HTML • CSS • JavaScript • Node.js | ✅ |
+| 📄 Bikram PDF | PDF Merge, Split, Compress & Conversion Tool | React • PDF.js | 🚀 |
+| 📚 BT Book Store | Online Book Store & Inventory Management System | React • Firebase | ✅ |
 
 ---
 
