@@ -130,11 +130,9 @@ Cloud       : Firebase • Supabase • Cloudinary
 
 OS          : Windows • Linux
 
-Currently Learning :
-Node.js • Next.js • TypeScript • MongoDB • System Design • Docker • AWS
+Currently Learning : Node.js • Next.js • TypeScript • MongoDB • System Design • Docker • AWS
 
-Other Skills :
-Responsive Design • SEO • UI/UX • API Integration • Authentication • CRUD Operations • MVC Architecture • Performance Optimization
+Other Skills : Responsive Design • SEO • UI/UX • API Integration • Authentication • CRUD Operations • MVC Architecture • Performance Optimization
 ```
 
 ---
