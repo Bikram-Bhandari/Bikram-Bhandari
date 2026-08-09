@@ -8,11 +8,11 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=bikram-bhandari&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/bikram-bhandari?logo=github&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/bikram-bhandai?affiliations=OWNER&style=for-the-badge" />
 
 </div>
 
