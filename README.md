@@ -1,29 +1,165 @@
-<h1 align="center">Hi 👋, I'm Bikram Bhandari</h1>
-<h3 align="center">A passionate Full Stack Web Developer from Nepal</h3>
+<div align="center">
 
-- 🔭 I’m currently working on [kedarsyu rural municipality](https://kedarsyn.netlify.app/)
+# Hi 👋, I'm Bikram Bhandari
 
-- 🌱 I’m currently learning **Node.js, Express.js, Next.js, React.js, TypeScript, Tailwind CSS, MongoDB, MySQL, REST API Development, Git & GitHub**
+### 🚀 Full Stack Web Developer from Nepal 🇳🇵
 
-- 👨‍💻 All of my projects are available at [https://bikrambhandari.info.np](https://bikrambhandari.info.np)
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Modern+Web+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
-- 📝 I regularly write articles on [https://bikrambhandari.info.np/blog](https://bikrambhandari.info.np/blog)
+<br/>
 
-- 💬 Ask me about **Frontend Development, Backend Development, Full Stack Web Development, REST APIs, Database Design, Git & GitHub, Deployment (Vercel & Netlify)**
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
-- 📫 How to reach me **Bikrambhandari670@gmail.com**
+<img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?logo=github&style=for-the-badge" />
 
-- 📄 Know about my experiences [https://bikrambhandari.info.np/resume](https://bikrambhandari.info.np/resume)
+<img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?affiliations=OWNER&style=for-the-badge" />
 
-- ⚡ Fun fact **I love learning new technologies and building projects from scratch**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bikrambhandari1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bikrambhandari1/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/bikrambhandari01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/bikrambhandari01" height="30" width="40" /></a>
+---
+
+# 👨‍💻 About Me
+
+- 💼 Full Stack Web Developer
+- 🌱 Currently learning **Next.js, Node.js, Express.js, TypeScript, MongoDB, System Design**
+- 🔭 Currently working on **Kedarsyu Rural Municipality**
+- 💬 Ask me about **React, JavaScript, Node.js, PHP, MySQL, REST APIs**
+- 🌍 Portfolio: **https://bikrambhandari.info.np**
+- 📝 Blog: **https://bikrambhandari.info.np/blog**
+- 📫 Email: **bikrambhandari670@gmail.com**
+- ⚡ Fun Fact: **I love building real-world projects from scratch.**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/bikrambhandari1">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.facebook.com/bikrambhandari01">
+<img src="https://skillicons.dev/icons?i=facebook" />
+</a>
+
+<a href="mailto:bikrambhandari670@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bikram-bhandari&" alt="bikram-bhandari" /></p>
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,php,mysql,mongodb,tailwind,bootstrap,git,github,docker,firebase,vscode,figma,linux&perline=10"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Live |
+|----------|-------------|------|
+| 🌐 Portfolio Website | Personal Portfolio & Blog | ✅ |
+| 🏛️ Kedarsyu Municipality | Government Website | ✅ |
+| 🏨 Nepal Hotel & Restaurant | Hotel Management System | ✅ |
+| 📄 Bikram PDF | PDF Editing Tool | ✅ |
+| 🩸 Blood Bank System | Blood Donation Platform | ✅ |
+| 🌄 Nepal Tourism Hub | Tourism Website | ✅ |
+| 📚 BT Book Store | Online Book Store | ✅ |
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- 🚀 Enterprise Web Applications
+- 🌐 Modern UI/UX
+- ⚡ High Performance Websites
+- 🔒 Secure Backend Development
+- ☁ Cloud Deployment
+- 🤝 Open Source Contribution
+
+---
+
+# 📌 Current Tech
+
+```text
+Frontend  : HTML • CSS • JavaScript • React • Next.js
+
+Backend   : Node.js • Express.js • PHP
+
+Database  : MySQL • MongoDB
+
+Tools      : Git • GitHub • Docker • VS Code
+
+Deployment : Netlify • Vercel
+```
+
+---
+
+# 💡 Quote
+
+> **"Code. Learn. Build. Repeat."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my work, don't forget to ⭐ my repositories.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
