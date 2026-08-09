@@ -76,7 +76,7 @@
 | 🗳️ Lokesh Bhandari – Election Target | Election Campaign & Management Platform | React • Node.js | 🚀 |
 | 🩸 Blood Bank & Donor Management System | Blood Donation & Donor Management Platform | PHP • MySQL | ✅ |
 | 🛒 Tech Store Nepal | Enterprise E-commerce Platform | React • Node.js • MongoDB | 🚀 |
-| 📋 TRMS System | Training & Resource Management System | PHP • MySQL | ✅ |
+| 📋 TRMS System | Teachers Record Management System | PHP • MySQL | ✅ |
 | 🌄 Nepal Tourism Hub | Tourism & Travel Information Platform | React • Vite | ✅ |
 | 🏨 Nepal Hotel Management System | Hotel Booking & Management System | React • Supabase | 🚀 |
 | 🏡 Hamro Kedarsyu | Community Information & Local Services Portal | React • Node.js | 🚀 |
