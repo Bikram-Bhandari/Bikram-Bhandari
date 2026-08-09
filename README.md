@@ -116,15 +116,25 @@
 # 📌 Current Tech
 
 ```text
-Frontend  : HTML • CSS • JavaScript • React • Next.js
+Frontend    : HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Next.js • Tailwind CSS • Bootstrap
 
-Backend   : Node.js • Express.js • PHP
+Backend     : Node.js • Express.js • PHP • REST APIs • JWT Authentication
 
-Database  : MySQL • MongoDB
+Database    : MySQL • MongoDB • PostgreSQL • Firebase • SQLite
 
-Tools      : Git • GitHub • Docker • VS Code
+Tools       : Git • GitHub • VS Code • Docker • Postman • npm • Vite • Figma
 
-Deployment : Netlify • Vercel
+Deployment  : Netlify • Vercel • GitHub Pages • Render
+
+Cloud       : Firebase • Supabase • Cloudinary
+
+OS          : Windows • Linux
+
+Currently Learning :
+Node.js • Next.js • TypeScript • MongoDB • System Design • Docker • AWS
+
+Other Skills :
+Responsive Design • SEO • UI/UX • API Integration • Authentication • CRUD Operations • MVC Architecture • Performance Optimization
 ```
 
 ---
