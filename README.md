@@ -81,12 +81,16 @@
 
 # 📊 GitHub Statistics
 
+# 📊 GitHub Statistics
+
 <p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bikram-bhandari&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=bikram-bhandari&theme=github-dark-blue&hide_border=true" />
+</p>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bikram-bhandari&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </p>
 
 ---
