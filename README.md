@@ -12,7 +12,7 @@
 
 <img src="https://img.shields.io/github/followers/bikram-bhandari?logo=github&style=for-the-badge" />
 
-<img src="https://img.shields.io/github/stars/bikram-bhandai?affiliations=OWNER&style=for-the-badge" />
+<img src="https://img.shields.io/github/stars/bikram-bhandari?affiliations=OWNER&style=for-the-badge" />
 
 </div>
 
