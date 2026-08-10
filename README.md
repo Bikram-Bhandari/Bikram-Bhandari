@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Bikram Bhandari
+# Hi, I'm Bikram Bhandari
 
-### 🚀 Full Stack Web Developer from Nepal 🇳🇵
+###  Full Stack Web Developer from Nepal 🇳🇵
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Full+Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+Developer;Building+Modern+Web+Applications;Open+Source+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 
@@ -18,7 +18,7 @@
 
 ---
 
-# 👨‍💻 About Me
+#  About Me
 
 - 💼 Full Stack Web Developer
 - 🌱 Currently learning **Next.js, Node.js, Express.js, TypeScript, MongoDB, System Design**
@@ -31,7 +31,7 @@
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <p align="center">
 
@@ -55,7 +55,7 @@
 
 ---
 
-# 💻 Tech Stack
+#  Tech Stack
 
 <p align="center">
 
@@ -65,7 +65,7 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | 🚀 Project | 📝 Description | 🛠️ Tech Stack | 📌 Status |
 |------------|----------------|---------------|:---------:|
@@ -87,7 +87,7 @@
 
 ---
 
-# 📊 GitHub Statistics
+# GitHub Statistics
 <p align="center">
   <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=bikram-bhandari&show_icons=true&theme=github_dark&hide_border=true" /> -->
 
@@ -100,7 +100,7 @@
 
 ---
 
-# 📊 Contribution Graph
+#  Contribution Graph
 
 <p align="center">
 
@@ -110,7 +110,7 @@
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
 - 🚀 Enterprise Web Applications
 - 🌐 Modern UI/UX
@@ -121,7 +121,7 @@
 
 ---
 
-# 📌 Current Tech
+#  Current Tech
 
 ```text
 Frontend    : HTML5 • CSS3 • JavaScript (ES6+) • TypeScript • React.js • Next.js • Tailwind CSS • Bootstrap
@@ -145,7 +145,7 @@ Other Skills : Responsive Design • SEO • UI/UX • API Integration • Authe
 
 ---
 
-# 💡 Quote
+#  Quote
 
 > **"Code. Learn. Build. Repeat."**
 
@@ -153,7 +153,7 @@ Other Skills : Responsive Design • SEO • UI/UX • API Integration • Authe
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 If you like my work, don't forget to ⭐ my repositories.
 
